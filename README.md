@@ -1,4 +1,5 @@
 # Tellor-io
+## ![Image](https://github.com/user-attachments/assets/a939f457-33ac-4aaf-bcea-a458cad15c21)
 1. Install Necessary Dependencies
 ```
 sudo apt update && sudo apt upgrade -y
